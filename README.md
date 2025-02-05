@@ -2,7 +2,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=42awhite&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/42awhite"
-  width="600"
+  width="700"
   height="300"
 />
 </a>
