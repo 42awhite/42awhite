@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=42awhite&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/42awhite"
+  width="600"
+  height="300"
+/>
+</a>
 <!--
 **42awhite/42awhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
