@@ -1,4 +1,5 @@
 ## Hi there 👋
+42 Madrid student / Telefonica
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=42awhite&utm_content=line">
   <img
